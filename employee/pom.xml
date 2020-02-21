@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.acbenny</groupId>
-	<artifactId>employee-app</artifactId>
+	<artifactId>employee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmployeeApplication</name>
 	<description>EmployeeApplication</description>
