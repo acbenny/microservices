@@ -1,0 +1,17 @@
+[
+        {
+                "key": "config/api-gateway/data",
+                "flags": 0,
+                "value": "c2VydmVyOgogIHBvcnQ6IDgwCgpzcHJpbmc6CiAgY2xvdWQ6CiAgICBnYXRld2F5OgogICAgICByb3V0ZXM6CiAgICAgICAgLSBpZDogY3VzdG9tZXItc2VydmljZQogICAgICAgICAgdXJpOiBsYjovL2N1c3RvbWVyLXNlcnZpY2UKICAgICAgICAgIHByZWRpY2F0ZXM6CiAgICAgICAgICAgIC0gUGF0aD0vY3VzdG9tZXJzLyoqCiAgICAgICAgICBmaWx0ZXJzOgogICAgICAgICAgICAtIFJld3JpdGVQYXRoPS9jdXN0b21lcnMoPzxwYXRoPi4qKSwgLyRce3BhdGh9CiAgICAgICAgLSBpZDogb3JkZXItc2VydmljZQogICAgICAgICAgdXJpOiBsYjovL29yZGVyLXNlcnZpY2UKICAgICAgICAgIHByZWRpY2F0ZXM6CiAgICAgICAgICAgIC0gUGF0aD0vb3JkZXJzLyoqCiAgICAgICAgICBmaWx0ZXJzOgogICAgICAgICAgICAtIFJld3JpdGVQYXRoPS9vcmRlcnMoPzxwYXRoPi4qKSwgLyRce3BhdGh9"
+        },
+        {
+                "key": "config/customer-service/data",
+                "flags": 0,
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDE="
+        },
+        {
+                "key": "config/order-service/data",
+                "flags": 0,
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDI="
+        }
+]
