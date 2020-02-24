@@ -1,3 +1,5 @@
+server:
+  port: 0
 spring:
   application:
     name: order-service
@@ -5,3 +7,7 @@ spring:
     consul:
       config:
         format: yaml
+        fail-fast: false
+      discovery:
+        fail-fast: false
+        instance-id: "${spring.application.name}:${server.port}"
