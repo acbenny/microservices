@@ -2,16 +2,16 @@
         {
                 "key": "config/api-gateway/data",
                 "flags": 0,
-                "value": "c2VydmVyOgogIHBvcnQ6IDgwCgpzcHJpbmc6CiAgY2xvdWQ6CiAgICBnYXRld2F5OgogICAgICByb3V0ZXM6CiAgICAgICAgLSBpZDogY3VzdG9tZXItc2VydmljZQogICAgICAgICAgdXJpOiBsYjovL2N1c3RvbWVyLXNlcnZpY2UKICAgICAgICAgIHByZWRpY2F0ZXM6CiAgICAgICAgICAgIC0gUGF0aD0vY3VzdG9tZXJzLyoqCiAgICAgICAgICBmaWx0ZXJzOgogICAgICAgICAgICAtIFJld3JpdGVQYXRoPS9jdXN0b21lcnMoPzxwYXRoPi4qKSwgLyRce3BhdGh9CiAgICAgICAgLSBpZDogb3JkZXItc2VydmljZQogICAgICAgICAgdXJpOiBsYjovL29yZGVyLXNlcnZpY2UKICAgICAgICAgIHByZWRpY2F0ZXM6CiAgICAgICAgICAgIC0gUGF0aD0vb3JkZXJzLyoqCiAgICAgICAgICBmaWx0ZXJzOgogICAgICAgICAgICAtIFJld3JpdGVQYXRoPS9vcmRlcnMoPzxwYXRoPi4qKSwgLyRce3BhdGh9"
+                "value": "c3ByaW5nOgogIGNsb3VkOgogICAgZ2F0ZXdheToKICAgICAgcm91dGVzOgogICAgICAgIC0gaWQ6IGN1c3RvbWVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9jdXN0b21lci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L2N1c3RvbWVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vY3VzdG9tZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQogICAgICAgIC0gaWQ6IG9yZGVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9vcmRlci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L29yZGVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vb3JkZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQogIHNsZXV0aDoKICAgIHNhbXBsZXI6CiAgICAgIHByb2JhYmlsaXR5OiAxCiAgemlwa2luOgogICAgYmFzZS11cmw6IGh0dHA6Ly9sb2NhbGhvc3Q6OTQxMS8="
         },
         {
                 "key": "config/customer-service/data",
                 "flags": 0,
-                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDE="
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDEKCnNwcmluZzoKICBzbGV1dGg6CiAgICBzYW1wbGVyOgogICAgICBwcm9iYWJpbGl0eTogMQogIHppcGtpbjoKICAgIGJhc2UtdXJsOiBodHRwOi8vbG9jYWxob3N0Ojk0MTEv"
         },
         {
                 "key": "config/order-service/data",
                 "flags": 0,
-                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDI="
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDIKCnNwcmluZzoKICBzbGV1dGg6CiAgICBzYW1wbGVyOgogICAgICBwcm9iYWJpbGl0eTogMQogIHppcGtpbjoKICAgIGJhc2UtdXJsOiBodHRwOi8vbG9jYWxob3N0Ojk0MTEv"
         }
 ]
