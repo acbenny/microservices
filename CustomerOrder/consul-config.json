@@ -2,16 +2,16 @@
         {
                 "key": "config/api-gateway/data",
                 "flags": 0,
-                "value": "c3ByaW5nOgogIGNsb3VkOgogICAgZ2F0ZXdheToKICAgICAgcm91dGVzOgogICAgICAgIC0gaWQ6IGN1c3RvbWVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9jdXN0b21lci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L2N1c3RvbWVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vY3VzdG9tZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQogICAgICAgIC0gaWQ6IG9yZGVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9vcmRlci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L29yZGVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vb3JkZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQogIHNsZXV0aDoKICAgIHNhbXBsZXI6CiAgICAgIHByb2JhYmlsaXR5OiAxCiAgemlwa2luOgogICAgYmFzZS11cmw6IGh0dHA6Ly9sb2NhbGhvc3Q6OTQxMS8="
+                "value": "c3ByaW5nOgogIGNsb3VkOgogICAgZ2F0ZXdheToKICAgICAgcm91dGVzOgogICAgICAgIC0gaWQ6IGN1c3RvbWVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9jdXN0b21lci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L2N1c3RvbWVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vY3VzdG9tZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQogICAgICAgIC0gaWQ6IG9yZGVyLXNlcnZpY2UKICAgICAgICAgIHVyaTogbGI6Ly9vcmRlci1zZXJ2aWNlCiAgICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgICAgICAtIFBhdGg9L29yZGVycy8qKgogICAgICAgICAgZmlsdGVyczoKICAgICAgICAgICAgLSBSZXdyaXRlUGF0aD0vb3JkZXJzKD88cGF0aD4uKiksIC8kXHtwYXRofQoKaHlzdHJpeDoKICBjb21tYW5kOgogICAgZGVmYXVsdDoKICAgICAgZXhlY3V0aW9uOgogICAgICAgIGlzb2xhdGlvbjoKICAgICAgICAgIHRocmVhZDoKICAgICAgICAgICAgdGltZW91dEluTWlsbGlzZWNvbmRzOiA1MDAwCnJpYmJvbjoKICBDb25uZWN0VGltZW91dDogNDAwMAogIFJlYWRUaW1lb3V0OiA0MDAw"
         },
         {
                 "key": "config/customer-service/data",
                 "flags": 0,
-                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDEKCnNwcmluZzoKICBzbGV1dGg6CiAgICBzYW1wbGVyOgogICAgICBwcm9iYWJpbGl0eTogMQogIHppcGtpbjoKICAgIGJhc2UtdXJsOiBodHRwOi8vbG9jYWxob3N0Ojk0MTEv"
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDEKICAgICAgCmZlaWduOgogIGh5c3RyaXg6CiAgICBlbmFibGVkOiB0cnVl"
         },
         {
                 "key": "config/order-service/data",
                 "flags": 0,
-                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDIKCnNwcmluZzoKICBzbGV1dGg6CiAgICBzYW1wbGVyOgogICAgICBwcm9iYWJpbGl0eTogMQogIHppcGtpbjoKICAgIGJhc2UtdXJsOiBodHRwOi8vbG9jYWxob3N0Ojk0MTEv"
+                "value": "c2VydmVyOgogIHBvcnQ6IDMwMDIKCnNwcmluZzoKICBjbG91ZDoKICAgIGNvbmZpZzoKICAgICAgYWxsb3dPdmVycmlkZTogdHJ1ZQogICAgICBvdmVycmlkZU5vbmU6IGZhbHNlCiAgICAgIG92ZXJyaWRlU3lzdGVtUHJvcGVydGllczogZmFsc2U="
         }
 ]

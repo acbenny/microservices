@@ -5,6 +5,3 @@ spring:
     consul:
       config:
         format: yaml
-        fail-fast: false
-      discovery:
-        fail-fast: false
